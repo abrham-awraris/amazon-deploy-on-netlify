@@ -16,3 +16,5 @@ const axiosInstance = axios.create({
       baseURL :'https://amazone-last-api.onrender.com'
     });
 export { axiosInstance };
+
+
